@@ -9,11 +9,6 @@ $c_start新唐人$c_end
 新唐人旧金山臺,https://live.ntdimg.com/sflive990/playlist.m3u8
 $c_start台港频道$c_end
 壹新聞,p2p://fccseuro.pvbox.live:18912/5c724897000cb1861d5316f515e3763e.ts
-衛視體育,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=027c95e5f78e5f81cb5b5cccb244f8b3
-Channel[V],http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=58e4ccb68e2bddd33028d61a277cd5fe
-MTV-音樂台,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=441af2f0d626bf31e3a70a04fccf14a5
-星空體育,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=4e45ff900f3c31d0f3ab6c9a6d7523e3
-TV5,http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e55de7eeea0e26ce7c01c418abacf273
 华丽台,http://pull.scphsd.com/live/65fcf5004962c899cacff01ee49bf7cd.flv
 欢喜台,http://pull.scphsd.com/live/0d3f7e3aba5f66a620a39a416a6e2e75.flv
 全佳台,http://pull.scphsd.com/live/98f8cdf5d48cac20163d0dd8bfc2f0eb.flv
