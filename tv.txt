@@ -1,14 +1,12 @@
 $c_start新唐人$c_end
 新唐人中国臺,https://live2.ntdimg.com/cnlive/playlist.m3u8?
-新唐亚太台,https://www.ntdtv.com.tw/mlt/playlist.m3u8
 新唐亚太臺,https://live.ntdimg.com/aplive200/playlist.m3u8?
 新唐人美东臺,https://live.ntdimg.com/live400/playlist.m3u8
 新唐人美西臺,https://live.ntdimg.com/uwlive990/playlist.m3u8
 新唐人加东臺,https://live.ntdimg.com/mllive860/playlist.m3u8
 新唐人加西臺,https://live.ntdimg.com/cwlive220/playlist.m3u8
-新唐人旧金山臺,https://live.ntdimg.com/sflive990/playlist.m3u8
 新唐人休斯顿臺,https://live.ntdimg.com/htlive480/playlist.m3u8?
-提示：节目源若失效请打开后台云端更新,https://live.ntdimg.com/sflive990/playlist.m3u8
+新唐人旧金山臺提示：节目源若失效请打开后台云端更新,https://live.ntdimg.com/sflive990/playlist.m3u8
 $c_start台港频道$c_end
 壹新聞,p2p://fccseuro.pvbox.live:18912/5c724897000cb1861d5316f515e3763e.ts
 华丽台,http://pull.scphsd.com/live/65fcf5004962c899cacff01ee49bf7cd.flv
